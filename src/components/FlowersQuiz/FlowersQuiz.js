@@ -2,6 +2,7 @@ import { useState, useEffect } from "react";
 import { Question } from "./Question";
 import { ListQuestion } from "./ListQuestion";
 import { questiondata } from "../../data/questions";
+import { appconfig } from "../../data/app.config";
 
 const FlowersQuiz = () => {
   // import data from ./data
@@ -84,7 +85,7 @@ const FlowersQuiz = () => {
   const cssFlowerWrapper = {
     textAlign: "center",
     margin: "0 auto",
-    backgroundImage: "url(./rose.jpg)",
+    backgroundImage: "url(./doan.png)",
     backgroundRepeat: "no-repeat",
     backgroundSize: "cover",
     height: "100vh",
@@ -103,7 +104,7 @@ const FlowersQuiz = () => {
     textAlign: "center",
     padding: "20px",
     margin: "0 auto",
-    backgroundColor: "rgb(149 132 151 / 50%)",
+    backgroundColor: "rgb(26 153 255 / 50%)",
     borderRadius: "25px",
   };
 
@@ -127,11 +128,11 @@ const FlowersQuiz = () => {
           transform: "translate(-50%, -50%)",
         }}
       >
-        <div style={cssFlowerHeaderText("purple", "pink")}>
-          CHÀO MỪNG NGÀY PHỤ NỮ VIỆT NĂM 20/10
-        </div>
         <div style={cssFlowerHeaderText("white", "#0766dd")}>
-          HỘI THI HÁI HOA DÂN CHỦ
+          {appconfig.flowerquiz.header}
+        </div>
+        <div style={cssFlowerHeaderText("white", "red")}>
+          {appconfig.flowerquiz.title}
         </div>
         <br />
         <div style={cssFlowerContainer}>

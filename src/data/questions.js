@@ -2,165 +2,174 @@
 export const questiondata = [
   {
     id: 1,
-    question: "Chủ tịch Liên đoàn Lao động tỉnh Đắk Lắk hiện nay là ai?",
+    question:
+      "Nguyễn Ái Quốc gởi bản “Yêu sách của nhân dân An Nam” tới Hội nghị Vecxay vào ngày tháng năm nào?",
     status: 1,
   },
   {
     id: 2,
-    question: "Chủ tịch Liên đoàn Lao động tỉnh Đắk Lắk hiện nay là ai?",
+    question:
+      "Nguyễn Ái Quốc đọc “Sơ thảo lần thứ nhất Luận cương về vấn đề dân tộc và vấn đề thuộc địa” của V.I.Lênin vào thời gian nào?",
     status: 1,
   },
   {
     id: 3,
-    question: "Nữ chiến sĩ Cộng sản đầu tiên của Việt Nam là ai ?",
+    question:
+      "Trong thời gian ở nước ngoài, Nguyễn Tất Thành đã làm những công việc gì?",
     status: 1,
   },
   {
     id: 4,
     question:
-      "Nữ sĩ quan tình báo giỏi nhất Việt Nam trong thời kỳ kháng chiến là ai?",
+      "Câu “… Chủ trương làm tư sản dân quyền cách mạng và thổ địa cách mạng để đi tới xã hội cộng sản” được trích từ bài viết nào của Hồ Chí Minh?",
     status: 1,
   },
   {
     id: 5,
-    question: "Nữ tướng duy nhất của Việt Nam ở thế kỷ XX là ai?",
+    question:
+      "Nguyễn Tất Thành ra đi tìm đường cứu nước tại bến cảng Nhà Rồng Sài Gòn vào thời gian nào?",
     status: 1,
   },
   {
     id: 6,
-    question: "Tổ chức Hội phụ nữ đầu tiên ra đời tháng 10/1930 có tên là gì? ",
+    question:
+      "“Cũng như ngọc càng mài càng sáng, vàng càng luyện càng trong”. Câu trên ở tác phẩm nào của Hồ Chí Minh?",
     status: 1,
   },
   {
     id: 7,
     question:
-      "Kể tên 4 phẩm chất của Phụ nữ Việt Nam thời kỳ đẩy mạnh Công nghiệp hóa - Hiện đại hóa đất nước đang được Hội Liên hiệp Phụ nữ các cấp triển khai thực hiện trong giai đoạn hiện nay?",
+      "“Tất cả các dân tộc trên thế giới đều sinh ra bình đẳng, dân tộc nào cũng có quyền sống, quyền sung sướng và quyền tự do”. Câu trên Hồ Chí Minh nói đó trong văn kiện nào?",
     status: 1,
   },
   {
     id: 8,
-    question: "Kể tên 5 nữ anh hùng dân tộc?",
+    question: "Chọn phương án trả lời đúng nhất:",
     status: 1,
   },
   {
     id: 9,
-    question: "Nữ vương đầu tiên trong lịch sử Việt Nam là ai?",
+    question:
+      "Theo Hồ Chí Minh, ưu điểm lớn nhất của học thuyết Khổng Tử là gì?",
     status: 1,
   },
   {
     id: 10,
-    question: "Hội Liên hiệp Phụ nữ Việt Nam được thành lập vào thời gian nào?",
+    question:
+      "Bài thơ: “Gạo đem vào giã bao đau đớn; / Gạo giã xong rồi trắng tựa bông; / Sống ở trên đời người cũng vậy; / Gian nan rèn luyện mới thành công” Bài thơ trên ở trong tác phẩm nào của Hồ Chí Minh?",
     status: 1,
   },
   {
     id: 11,
-    question:
-      "Ngày 20/10 hàng năm bắt đầu được công nhận là Ngày Phụ nữ Việt Nam từ thời gian nào?",
+    question: "Theo Hồ Chí Minh, học chủ nghĩa Mác – Lênin nghĩa là gì?",
     status: 1,
   },
   {
     id: 12,
-    question: "Nữ Bộ trưởng Ngoại giao đầu tiên của Việt Nam là ai?",
+    question:
+      "Theo Hồ Chí Minh, cách mạng giải phóng dân tộc muốn giành được thắng lợi phải đi theo con đường nào?",
     status: 1,
   },
   {
     id: 13,
-    question: "Nữ tướng đầu tiên của Quân đội nhân dân Việt Nam là ai?",
+    question: "Chọn phương án trả lời đúng với tư tưởng Hồ Chí Minh:",
     status: 1,
   },
   {
     id: 14,
     question:
-      "Phong trào thi đua do Tổng liên đoàn Lao động Việt Nam phát động trong nữ công nhân viên chức lao động hiện nay đang thực hiện có tên là gì?",
+      "“Toàn thể dân tộc Việt Nam quyết đem tất cả tinh thần và lực lượng, tính mạng và của cải để giữ vững quyền tự do, độc lập ấy”. Đoạn văn trên trích từ bài viết nào của Hồ Chí Minh:",
     status: 1,
   },
   {
     id: 15,
-    question: "Kể tên 5 bài hát về phụ nữ mà bạn biết?",
+    question: "Hồ Chí Minh đã tiếp thu những yếu tố nào của Phật giáo?",
     status: 1,
   },
   {
     id: 16,
     question:
-      "Hát một bài hát về phụ nữ mà bạn biếtBạn hãy cho biết Công đoàn cơ sở có bao nhiêu đoàn viên nữ, thì được thành lập Ban nữ công quần chúng?",
+      "Chọn cụm từ đúng điền vào chỗ trống: “Việt Nam muốn làm bạn với ….., không gây thù oán với một ai”.",
     status: 1,
   },
   {
     id: 17,
-    question: "Tác giả của bài hát “Biết ơn chị Võ Thị Sáu” là ai?",
+    question:
+      "Chọn cụm từ đúng điền vào chỗ trống: Toàn thể dân tộc Việt Nam quyết đem … để giữ vững quyền tự do, độc lập ấy”.",
     status: 1,
   },
   {
     id: 18,
     question:
-      "Mẹ Việt Nam anh hùng có nhiều con hy sinh nhất trong kháng chiến là ai?",
+      "Theo Hồ Chí Minh, vai trò lãnh đạo của giai cấp công nhân trong cách mạng Việt Nam do yếu tố nào quy định?",
     status: 1,
   },
   {
     id: 19,
-    question:
-      "Nội dung của tiêu chí 3 sạch trong cuộc vận động xây dựng gia đình “5 không 3 sạch” của Hội Liên hiệp Phụ nữ Việt Nam phát động là gì?",
+    question: "Theo Hồ Chí Minh, chủ nghĩa cộng sản thích ứng ở đâu dễ hơn?",
     status: 1,
   },
   {
     id: 20,
-    question: "Ban nữ công quần chúng được thành lập ở Công đoàn cấp nào?",
+    question:
+      "Theo Hồ Chí Minh, đặc trưng kinh tế nổi bật nhất của chủ nghĩa xã hội là gì?",
     status: 1,
   },
   {
     id: 21,
-    question: "Trưởng Ban vì sự tiến bộ Phụ Nữ của KBNN hiện nay là ai ?",
+    question:
+      "Truyền thống quý báu nhất của dân tộc Việt Nam được Hồ Chí Minh kế thừa và phát triển là gì?",
     status: 1,
   },
   {
     id: 22,
     question:
-      "Trưởng Ban vì sự tiến bộ Phụ Nữ của KBNN Đắk Lắk hiện nay là ai ?",
+      "Hồ Chí Minh đã dùng hình tượng nào dưới đây để chỉ chủ nghĩa tư bản?",
     status: 1,
   },
   {
     id: 23,
-    question: "Ngày 08/3 và Ngày 20/10 khác nhau như thế nào ?",
+    question:
+      "Theo giáo trình Tư tưởng Hồ Chí Minh, nguyên tắc phân phối chủ yếu trong chủ nghĩa xã hội là gì?",
     status: 1,
   },
   {
     id: 24,
     question:
-      "Ai là người trao bức trướng thêu dòng chữ: Phụ nữ Việt Nam Trung hậu - Đảm đang - Tài năng - Anh hùng ?",
+      "Theo giáo trình Tư tưởng Hồ Chí Minh, đặc trưng nổi bật nhất về chính trị của chủ nghĩa xã hội là gì?",
     status: 1,
   },
   {
     id: 25,
-    question:
-      "Đội tuyển bóng đá nữ quốc gia Việt Nam đã mấy lần vô địch SEA Games?",
+    question: "Ham muốn tột bậc của Hồ Chí Minh là gì?",
     status: 1,
   },
   {
     id: 26,
     question:
-      "Ngày thành lập Hội Liên hiệp Phụ nữ Việt Nam là ngày tháng năm nào ?",
+      "Theo Hồ Chí Minh, muốn xây dựng chủ nghĩa xã hội trước hết cần có cái gì?",
     status: 1,
   },
   {
     id: 27,
-    question: "Nữ chính trị gia nào đã đại diên Việt Nam kí hiệp định Paris ?",
+    question: "Sức mạnh dân tộc bao gồm những yếu tố chủ yếu nào?",
     status: 1,
   },
   {
     id: 28,
-    question:
-      "Nữ bác sĩ, liệt sĩ trên chiến trường Quảng Ngãi được Nhà nước ta truy tặng danh hiệu Anh hùng lực lượng vũ trang nhân dân năm 2006 là ai?",
+    question: "Sức mạnh thời đại bao gồm những yếu tố nào?",
     status: 1,
   },
   {
     id: 29,
-    question: "Nhà tù đã giam giữ chị Võ Thị Sáu ?",
+    question:
+      "Điền vào ô trống, hoàn chỉnh thơ của Hồ Chí Minh. Rằng đây bốn biển một nhà … Đều là anh em",
     status: 1,
   },
   {
     id: 30,
     question:
-      "Chữ gì đa số chị em phụ nữ đều có, khi bỏ chữ đầu thành loài hoa, cắt chữ cuối thành động vật, bỏ dấu thì biến thành 1 loại vũ khí?",
+      "Theo Hồ Chí Minh, để lãnh đạo Mặt trận dân tộc thống nhất, Đảng phải làm gì?",
     status: 1,
   },
 ];

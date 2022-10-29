@@ -4,8 +4,8 @@ import FlowersQuiz from "./components/FlowersQuiz/FlowersQuiz";
 function App() {
   return (
     <div className="App">
-      <h1>Mini Game Make with Reactjs</h1>
-      <p>Some fun of game make by me</p>
+      {/* <h1>Mini Game Make with Reactjs</h1>
+      <p>Some fun of game make by me</p> */}
       <FlowersQuiz />
       {/* Clear local storeage*/}
       <button

@@ -8,11 +8,11 @@ export const ListQuestion = (props) => {
     textAlign: "center",
     backgroundSize: "90%",
     backgroundPosition: "center",
-    backgroundImage: "url(./flowers.png)",
+    backgroundImage: "url(./lotus-flower.png)",
     backgroundRepeat: "no-repeat",
     padding: "10px",
     margin: "10px",
-    backgroundColor: "rgb(54 185 179)",
+    backgroundColor: "#4caf50",
     borderRadius: "25px",
   };
 
