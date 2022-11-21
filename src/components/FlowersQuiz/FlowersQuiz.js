@@ -134,6 +134,9 @@ const FlowersQuiz = () => {
         <div style={cssFlowerHeaderText("white", "red")}>
           {appconfig.flowerquiz.title}
         </div>
+        <div style={cssFlowerHeaderText("white", "red")}>
+          {appconfig.flowerquiz.title_2}
+        </div>
         <br />
         <div style={cssFlowerContainer}>
           {chooseQuestion === null ? (

@@ -1,7 +1,9 @@
 export const appconfig = {
   flowerquiz: {
-    header: "ĐOÀN THANH NIÊN CỘNG SẢN HỒ CHÍ MINH",
+    header: "ĐOÀN KHỐI CCQ&DN TỈNH - CHI ĐOÀN KBNN ĐẮK LẮK",
     title:
-      "CUỘC THI TÌM HIỂU VÀ HỌC TẬP TẤM GƯƠNG ĐẠO ĐỨC CHỦ TỊCH HỒ CHÍ MINH",
+      "HỘI THI HÁI HOA DÂN CHỦ",
+      title_2:
+      "TÌM HIỂU CUỘC ĐỜI CHỦ TỊCH HỒ CHÍ MINH",
   },
 };
